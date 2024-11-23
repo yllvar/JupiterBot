@@ -16,3 +16,5 @@ JupiterBot is a Solana trading bot that uses the Jupiter API for market buys, Te
 python main.py
 
 # JupiterBot
+
+Original code is inspired by @moondevonyt
